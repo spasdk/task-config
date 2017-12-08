@@ -26,6 +26,7 @@
         "spasdk",
         "framework",
         "develop",
+        "runner",
         "task",
         "config"
     ],

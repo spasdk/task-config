@@ -1,5 +1,5 @@
-Serve project files
-===================
+Runner config task
+==================
 
 [![build status](https://img.shields.io/travis/spasdk/task-config.svg?style=flat-square)](https://travis-ci.org/spasdk/task-config)
 [![npm version](https://img.shields.io/npm/v/spa-task-config.svg?style=flat-square)](https://www.npmjs.com/package/spa-task-config)
